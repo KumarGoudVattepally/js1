@@ -25,3 +25,4 @@ console.log(i);//undefined
 i=10;
 var i =5;
 console.log(i);//5
+console.log(c);//c is not defined
